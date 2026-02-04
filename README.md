@@ -76,25 +76,7 @@ Matplotlib
 
 Seaborn
 
-📁 Project Structure
-Statistical-Data-Analyzer/
-│
-├── statistical-data-analyzer/
-│   ├── src/
-│   │   ├── main.py
-│   │   ├── stats_core.py
-│   │   ├── visualize.py
-│   │   └── clt_simulation.py
-│   ├── data/
-│   │   └── sample.csv
-│   └── plots/
-│       ├── distribution.png
-│       └── clt_simulation.png
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
+
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
